@@ -16,9 +16,9 @@ php-boilerplate/
 └── README.md # Project documentation
 ```
 
-## Prerequisites
+## Uses
 
-- PHP >= 7.4
+- PHP 8.3.11
 - Composer (for managing dependencies)
 
 ## Setup Instructions
